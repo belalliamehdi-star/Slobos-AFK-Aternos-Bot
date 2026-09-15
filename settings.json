@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MCSchool_SMP_.aternos.me
-",
+    "ip": "MCSchool_SMP_.aternos.me:49741",
     "port": 27586,
     "version": "",
     "try-creative": false
